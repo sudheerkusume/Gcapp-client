@@ -1,0 +1,39 @@
+.egg-card {
+  width: 160px;
+  min-width: 160px;
+  box-shadow: 0 4px 8px rgba(128, 128, 128, 0.2);
+  border-radius: 12px;
+  transition: 0.3s ease;
+}
+
+.egg-card:hover {
+  box-shadow: 0 6px 16px rgba(128, 128, 128, 0.3);
+  transform: translateY(-2px);
+}
+
+.egg-image-wrapper {
+  height: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+
+@media (max-width: 576px) {
+  .egg-card {
+    width: 130px;
+    min-width: 130px;
+  }
+
+  .egg-image-wrapper {
+    height: 110px;
+  }
+
+  .card-body h6 {
+    font-size: 13px;
+  }
+
+  .card-body p {
+    font-size: 12px;
+  }
+}
