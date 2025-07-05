@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gcapp-client/static/css/main.31e2b066.css",
-    "main.js": "/Gcapp-client/static/js/main.b67980a0.js",
+    "main.js": "/Gcapp-client/static/js/main.599e5c22.js",
     "static/js/453.b9288a5c.chunk.js": "/Gcapp-client/static/js/453.b9288a5c.chunk.js",
     "static/media/About3.png": "/Gcapp-client/static/media/About3.ab65d1e90252e298651d.png",
     "static/media/GroceryBag.png": "/Gcapp-client/static/media/GroceryBag.5e732c54a5d5c5910faf.png",
@@ -88,11 +88,11 @@
     "static/media/Nothing.avif": "/Gcapp-client/static/media/Nothing.74795ede9f7956ccf5e0.avif",
     "index.html": "/Gcapp-client/index.html",
     "main.31e2b066.css.map": "/Gcapp-client/static/css/main.31e2b066.css.map",
-    "main.b67980a0.js.map": "/Gcapp-client/static/js/main.b67980a0.js.map",
+    "main.599e5c22.js.map": "/Gcapp-client/static/js/main.599e5c22.js.map",
     "453.b9288a5c.chunk.js.map": "/Gcapp-client/static/js/453.b9288a5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31e2b066.css",
-    "static/js/main.b67980a0.js"
+    "static/js/main.599e5c22.js"
   ]
 }
